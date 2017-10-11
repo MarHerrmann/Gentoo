@@ -11,6 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Configs:
 1. **Kernel**
+
 ⋅⋅⋅lspci
 2. **BASH / ZSH / oh-my-zsh**
 ⋅⋅⋅- .zshrc
