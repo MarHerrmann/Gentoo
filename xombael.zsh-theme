@@ -33,7 +33,6 @@ theme_preexec () {
     fi
 }
 
-
 setprompt () {
     ###
     # Need this so the prompt will work.
