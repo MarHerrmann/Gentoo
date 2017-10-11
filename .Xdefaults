@@ -6,17 +6,17 @@ URxvt.font: xft:Envy Code R for Powerline:size=8
 URxvt.scrollColor:	#777777
 
 ! 30,90 BLACK
-URxvt.color0: #333333
-URxvt.color8: #666666
+URxvt.color0:   #333333
+URxvt.color8:   #666666
 ! 31,91 RED
-URxvt.color1: #993333
-URxvt.color9: #f42525
+URxvt.color1:   #993333
+URxvt.color9:   #f42525
 ! 32,92 GREEN
-URxvt.color10:#8a428a
-URxvt.color2: #cc00cc
+URxvt.color10:  #8a428a
+URxvt.color2:   #cc00cc
 ! 33,93 YELLOW
-URxvt.color11:#9c85e0
-URxvt.color3: #8000ff
+URxvt.color11:  #9c85e0
+URxvt.color3:   #8000ff
 ! 34,94 BLUE
 URxvt.color12:#1ac6ff
 URxvt.color4: #1a90ff
