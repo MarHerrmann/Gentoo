@@ -1,0 +1,2 @@
+# Gentoo
+collection of configs
