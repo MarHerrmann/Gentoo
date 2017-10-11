@@ -12,22 +12,22 @@ URxvt.color8:		  #666666
 URxvt.color1:		  #993333
 URxvt.color9:		  #f42525
 ! 32,92 GREEN
-URxvt.color10:	   #8a428a
+URxvt.color10:	    #8a428a
 URxvt.color2:		  #cc00cc
 ! 33,93 YELLOW
-URxvt.color11:	   #9c85e0
+URxvt.color11:	    #9c85e0
 URxvt.color3:		  #8000ff
 ! 34,94 BLUE
-URxvt.color12:	   #1ac6ff
+URxvt.color12:	    #1ac6ff
 URxvt.color4:		  #1a90ff
 ! 35,95 MAGENTA
-URxvt.color13:	   #c199e6
+URxvt.color13:	    #c199e6
 URxvt.color5:		  #c180ff
 ! 36,96 CYAN
-URxvt.color14:	   #1ac6ff
+URxvt.color14:	    #1ac6ff
 URxvt.color6:		  #ff66ff
 ! 37,97 WHITE
-URxvt.color15:	   #7373a5
+URxvt.color15:	    #7373a5
 URxvt.color7:		  #e0e0eb
 
 
