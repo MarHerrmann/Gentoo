@@ -1,4 +1,4 @@
-# Configs:
+# Collection of Gentoo Configs:
 > 1. **Kernel**
   - lspci
 > 2. **BASH / ZSH / oh-my-zsh**
