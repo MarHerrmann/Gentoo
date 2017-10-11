@@ -8,6 +8,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+# Configs:
+1. **Kernel**
+  - lspci
+2. **BASH / ZSH / oh-my-zsh**
+  - .zshrc
+  - xombael.zsh-theme
+3. **X11**
+  - .Xdefaults
+4. **spectrwm**
+  - spectrwm.conf
+5. **Conky/dzen2**
+  - go.sh
+
 ```markdown
 Syntax highlighted code block
 
