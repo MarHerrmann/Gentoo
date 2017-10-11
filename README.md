@@ -11,10 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Configs:
 1. **Kernel**
-  - lspci
+  > lspci
 2. **BASH / ZSH / oh-my-zsh**
-  - .zshrc
-  - xombael.zsh-theme
+  > .zshrc
+  > xombael.zsh-theme
 3. **X11**
   - .Xdefaults
 4. **spectrwm**
