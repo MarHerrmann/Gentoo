@@ -36,6 +36,7 @@ URxvt.colorBD:		#ffffff
 URxvt.background:	#222222
 URxvt.foreground:	#ffffff
 
+
 URxvt.fading:		30
 URxvt.scrollBar:	false
 URxvt.saveLines:	5000
