@@ -18,8 +18,13 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+# Configs:
+1. Kernel
+2. BASH/ZSH
+3. X11
+4. spectrwm
+5. Conky/dzen2
+
 
 **Bold** and _Italic_ and `Code` text
 
